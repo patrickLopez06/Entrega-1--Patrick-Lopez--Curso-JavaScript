@@ -6,3 +6,21 @@ Este proyecto corresponde a la primera pre-entrega del curso de JavaScript que e
 - Funciones
 - Condicionales
 - Interacción por consola (prompt, alert, console.log)
+
+# 🗞️Descripción del proyecto
+El proyecto simula un **catálogo de una joyería**, donde el usuario puede:
+- Elegir una categoría de productos
+- Ver los productos disponibles por consola
+- Interactuar mediante prompts
+
+La interfaz HTML se utiliza únicamente como soporte para ejecutar el script.
+
+## 🖥️ Tecnologías utilizadas
+- HTML
+- CSS
+- JavaScript
+
+## 🙌 Alumno/a
+- Nombre: Patrick Lopez  
+- Comisión: 89570  
+- Curso: JavaScript
