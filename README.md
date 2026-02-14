@@ -7,7 +7,7 @@ Este proyecto corresponde a la primera pre-entrega del curso de JavaScript que e
 - Condicionales
 - Interacción por consola (prompt, alert, console.log)
 
-# 🗞️Descripción del proyecto
+# 🛡️Descripción del proyecto
 El proyecto simula un **catálogo de una joyería**, donde el usuario puede:
 - Elegir una categoría de productos
 - Ver los productos disponibles por consola
